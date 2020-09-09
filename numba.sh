@@ -2,7 +2,7 @@
 
 ## WRITTEN BY ACTIVE
 ## HTML2TEXT IS REQUIRED!
-## INSTALL: "apt-get install html2text" OR "brew install html2text" IF YOU USE MACOS!
+## INSTALL: "sudo apt-get install html2text" OR "brew install html2text" IF YOU USE MACOS!
 
 echo -e "NumBASH! - Written by Active"
 echo -e "Enter the area code below:"
